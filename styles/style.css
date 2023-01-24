@@ -1,0 +1,23 @@
+header, footer{
+    background-color: #1a237e;
+}
+
+h1, h2 {
+    color: whitesmoke;
+}
+
+div>section{
+    background-color: lightpink;
+}
+
+footer>a {
+    color: whitesmoke;
+}
+
+aside{
+    background-color: lightgreen;
+}
+
+*{
+    font-family: 'Oswald', sans-serif;
+}
