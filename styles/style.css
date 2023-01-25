@@ -12,12 +12,28 @@ div>section{
 
 footer>a {
     color: whitesmoke;
+    text-align: center;
 }
 
 aside{
-    background-color: lightgreen;
+    background-color: lightgray;
 }
 
 *{
     font-family: 'Oswald', sans-serif;
+    font-size:x-large;
+}
+
+figure>img{
+    box-shadow: 5px 5px 2px;
+    border-radius: 10px;
+}
+
+figure>figcaption{
+    text-align: center;
+    background-color: lightgray;
+}
+
+#contacto{
+    text-align: center;
 }
